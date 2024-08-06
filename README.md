@@ -1,1 +1,1 @@
-Basic HTML file added and push into the gitHub
+Basic HTML file added.
